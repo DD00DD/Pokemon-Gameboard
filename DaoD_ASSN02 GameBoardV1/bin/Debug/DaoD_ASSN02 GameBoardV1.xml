@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DaoD_ASSN02 GameBoardV1
+</name>
+</assembly>
+<members>
+<member name="T:DaoD_ASSN02_GameBoardV1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources._1024px_Dice_6a_b_svg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Beedrill">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Caterpie">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Dice_1_b_svg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Dice_2_b_svg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Dice_3_b_svg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Dice_4_b_svg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Dice_5_b_svg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.duskball">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Flygon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.forest">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Golisopod">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Heracross">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.PikachuIdle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.PikachuRunning">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Pinsir">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.pokeball">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.PokeballLoad">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.PokemonCentre">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Powerbutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Rattata">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Roserade">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Scolipede">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Scyther">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Sewaddle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Shedinja">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Standing1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Venonat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DaoD_ASSN02_GameBoardV1.My.Resources.Resources.Yanmega">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
